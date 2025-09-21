@@ -43,11 +43,11 @@ function convertToBool(text, fault = "true") {
 module.exports = {
   SESSION_ID:
     process.env.SESSION_ID ||
-    "session id",
+    "HRFjXTZS#2lIpuNytePH-iNcnx1gsaSIDenK9PqlwmG1DG0Nqh6Y",
   BOT_NUMBER:
-    process.env.BOT_NUMBER || "your account crated number",
+    process.env.BOT_NUMBER || "+94760067200",
   PASSWORD: 
-    process.env.PASSWORD || "your password",
+    process.env.PASSWORD || "Deneth123",
   SUDO: process.env.SUDO
     ? process.env.SUDO.split(",")
     : ["94717775628", "94758775628"],
